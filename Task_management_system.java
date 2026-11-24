@@ -22,6 +22,8 @@ public class Task_management_system {
         tasks.add(new Task("Complete Java homework", "High", false));
         tasks.add(new Task("Review Git commands", "Medium", true));
         tasks.add(new Task("Read Chapter 2", "Low", false));
+             tasks.add(new Task("Prepare project presentation", "High", false));
+        tasks.add(new Task("Submit Git homework", "High", false));
         System.out.println("Task Management System");
         System.out.println("----------------------");
 
